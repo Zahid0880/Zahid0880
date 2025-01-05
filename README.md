@@ -41,7 +41,7 @@ A sleek and intuitive stopwatch application for tracking time efficiently.
 - [View Repository](https://zahid0880.github.io/STOPWATCH/)
 
 
-### 🧑‍🏫 **Teacher Evaluation and Attendance System**  
+### 🧑‍🏫 **Academic_Audit_Tool**  
 A complete solution for evaluating teachers and managing attendance.  
 - **Tech Stack**: MERN + Flutter (Mobile App)  
 - **Features**: Role-based access, attendance reports, makeup class management  
