@@ -30,24 +30,30 @@ Welcome to my GitHub profile! I'm a professional MERN stack developer with a str
 
 ---
 
-### ⏱️ **Stopwatch Application**  
-A sleek and intuitive stopwatch application for tracking time efficiently.  
-- **Tech Stack**: React.js, Node.js  
-- **Features**:  
-  - Start, Stop, Reset, and Lap functionality  
-  - Responsive UI for desktop and mobile  
-  - Real-time updates using React hooks  
+# 📂 My Projects  
+
+### ⏱️ **Stopwatch App**  
+A sleek stopwatch for tracking time efficiently.  
+- **Tech**: React.js, Node.js  
+- **Features**: Start, Stop, Reset, Lap, Responsive UI  
 - **Status**: ✅ Completed  
-- [View Repository](https://zahid0880.github.io/STOPWATCH/)
+- [Live Demo](https://zahid0880.github.io/STOPWATCH/)  
 
+---
 
-### 🧑‍🏫 **Academic_Audit_Tool**  
-A complete solution for evaluating teachers and managing attendance.  
-- **Tech Stack**: MERN + Flutter (Mobile App)  
+### 🧑‍🏫 **Academic Audit Tool**  
+A MERN + Flutter-based solution for academic evaluations and attendance.  
 - **Features**: Role-based access, attendance reports, makeup class management  
-- **Status**: 🚧 *Under Development*  
-- 🔄 Current Progress: Working on backend API for role-based access control  
-- [View Repository](https://zahid0880.github.io/STOPWATCH/)
+- **Status**: 🚧 Under Development  
+- [Repository](https://zahid0880.github.io/STOPWATCH/)  
+
+---
+
+### 🌤️ **Weather App**  
+A web app to check real-time weather updates.  
+- **Tech**: React.js, OpenWeatherMap API  
+- **Status**: 🚧 API issues (under debugging)  
+- [Repository](https://zahid0880.github.io/Weather-App/)
 
 ---
 
