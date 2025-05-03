@@ -32,6 +32,16 @@ Welcome to my GitHub profile! I'm a professional MERN stack developer with a str
 
 # 📂 My Projects  
 
+### 💼 **Portfolio Website**
+
+A modern, responsive portfolio to showcase your skills, projects, and contact information.
+
+* **Tech**: HTML5, CSS3, JavaScript
+* **Features**: About Me, Skills Section, MERN & Media Management Services, Contact Form (Web3Forms), Social Media Links
+* **Status**: ✅ Completed
+* [Live Demo](https://zahid0880.github.io/Portfolio-/)
+
+
 ### ⏱️ **Stopwatch App**  
 A sleek stopwatch for tracking time efficiently.  
 - **Tech**: React.js, Node.js  
