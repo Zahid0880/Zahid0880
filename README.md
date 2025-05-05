@@ -39,7 +39,7 @@ A modern, responsive portfolio to showcase your skills, projects, and contact in
 * **Tech**: HTML5, CSS3, JavaScript
 * **Features**: About Me, Skills Section, MERN & Media Management Services, Contact Form (Web3Forms), Social Media Links
 * **Status**: ✅ Completed
-* [Live Demo](https://zahid0880.github.io/Portfolio-/)
+* [Live Demo](https://portfolio-rho-eight-42.vercel.app/)
 
 
 ### ⏱️ **Stopwatch App**  
